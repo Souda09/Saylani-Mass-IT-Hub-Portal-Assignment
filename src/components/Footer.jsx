@@ -3,7 +3,7 @@ import { FaFacebook, FaTwitter, FaInstagram, FaLinkedin, FaYoutube } from 'react
 
 const Footer = () => {
   return (
-    // 👈 Background white/light gray kiya aur text dark
+    //  Background white/light gray kiya aur text dark
     <footer className="bg-white border-t border-gray-100 mt-16 rounded-t-[3rem] shadow-inner">
       <div className="max-w-7xl mx-auto px-6 py-16 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12">
         
